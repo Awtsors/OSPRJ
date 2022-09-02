@@ -1,0 +1,22 @@
+EH09202204209092460000   PCLIntegrated Call Center Solutions (Philippines), Inc                                                 183 EDSA corner Ortigas Ave., Wack Wack, Greenhills, City of Mandaluyong                            1555           7568510
+DT12102432548630228495       ABDON                         JONALIN                       DAQUILOG                             193.84         0.00311038287      19910704
+DT12106502139330217742       ALVIAR                        MARY JANE                     CLAVO                                390.60         0.00281866232      19890712
+DT12110510046752160245       BILLONES                      CHARISMA                      GAMAYO                               391.92         0.00250300636      19850122
+DT12103659741352052553       BULAUITAN                     MARIO ZALMAN                  BUSTAMANTE                           106.46         0.00404032605      19850821
+DT12113805235010029141       CAING                         MARK CHRISTIAN ANTHONY        BASADA                              1148.78         0.00441561943      19930614
+DT10200065769752133513       CALIWAG                       GERALDINE                     HERRERA                             1124.96         0.00210429594      19820920
+DT12102122442930229620       GONGORA                       LEYNARD                       DEL VALLE                            173.74         0.00251811026      19820823
+DT12102995542310037302       JAO                           JOSHUA                        NAMALATA                             553.20         0.00233474518      19861204
+DT12102485984052038484       LIM JR                        DANILO                        TAGUDANDO                            319.82         0.00946248015      19850820
+DT12118518950152170763       LUCOS                         MAE MAE                       RAMOS                                147.52         0.00332426760      19860104
+DT10900077071952038810       ONG                           JORDAN JOHN                   MACABULOS                            399.48         0.00260582161      19860802
+DT10900262925210024434       ORDINAL                       MAJESSEL                                                           143.80         0.00912876357      19770501
+DT12110991397710007558       PADUA                         ERWIN                         MENDOZA                              109.96         0.00713818857      19900316
+DT12118494150930229357       REGULAR                       JONARD                        SANGUTAN                             190.26         0.00332825247      19930720
+DT12109866667052169761       SAMARRO                       SHERLEY                                                            296.76         0.00441192868      19960107
+DT12117245048752159900       SINFUEGO                      SHERRY AUBYN                  BAYAUA                               543.52         0.00470978452      19831014
+DT10200262033130217785       TABAC                         GEMMALYN                      ILIGAN                               307.58         0.00256647545      19861221
+DT12100612780452178592       TOLENTINO                     PAUL CESAR III                SANTOS                               406.74         0.00224730564      19810730
+DT12108742167430229359       URBAN                         SHARON                        MANIQUIZ                             466.24         0.00232943368      19820430
+DT12106855832130226286       VILLARIZA                     QUEENIE ANN                   AUXTERO                              416.86         0.00405495630      19890930
+DT12121478071852154576       ZACARIAS                      PAULO                         LAYSON                               189.30         0.00700469429      19890606

@@ -1,0 +1,134 @@
+EH09202204209092460000   PSTIntegrated Call Center Solutions (Philippines), Inc                                                 183 EDSA corner Ortigas Ave., Wack Wack, Greenhills, City of Mandaluyong                            1555           7568510
+DT12102432548630228495       ABDON                         JONALIN                       DAQUILOG                            3111.94         0.00311038287      19910704
+DT12117274390630231669       ABECINA                       JHELLA                        CUARESMA                             464.56         0.00487179653      19880619
+DT12111629156730239893       ABELADA                       ROTCHELINE MAY                HAYAWON                              559.48         0.00427348640      19860809
+DT12109917310130220126       ABETRIA                       GILBERT                       MIRABALLES                          1004.70         0.00311481287      19890520
+DT12114583303010036833       AGUILANDO                     MA LUISA                      REYES                                576.70         0.00240480077      19840315
+DT12107443243152043036       AGUILAR                       CHRISTINA DANICCA             ROQUE                                448.90         0.00310330259      19910708
+DT12117329136130228238       ALBINO                        JEROLD                        MARCOS                               767.34         0.00425878866      19911010
+DT12107680927752057930       ALIWALAS                      VERONICA                      TIBAY                                806.66         0.00313153933      19930405
+DT12115496569352083635       ALOTA                         STEVEN STEWART                FUENTEBELLA                          489.80         0.00323206873      19890107
+DT12106502139330217742       ALVIAR                        MARY JANE                     CLAVO                               1081.98         0.00281866232      19890712
+DT12107857250830231763       AMPO                          AIDA LOR                      TRASPORTES                           378.98         0.00494429984      19881101
+DT12112052319310003481       ANDALES                       LENARD                                                             439.68         0.00458218389      19951205
+DT10100330751252044189       ANTIPADO                      MARION                        LOPEZ                               2403.10         0.00225274095      19771224
+DT12105612403530193069       ARRIOLA                       REMEDIOS                      CASTRO                              2634.38         0.00118296832      19641020
+DT12104733792710010409       ATIENZA                       VIVIANA                       FORTU                               1324.12         0.00222644140      19830416
+DT12101556671952144940       BACANI                        JOEL                          ARGONCILLO                           799.64         0.00718882834      19780916
+DT12122250258152164099       BARDINAS                      ALEZA                         RIGOR                                468.48         0.00343156140      19991128
+DT12102155845852164095       BARRIOS                       JANE MAR                                                           449.62         0.00260289483      19890612
+DT12108849845052133510       BAUTISTA                      ROLITO                        GUDES                                317.72         0.00320352703      19891001
+DT12104765314252154568       BAYLE                         MARIBEL                       CARDENAS                            2488.34         0.00305136367      19770603
+DT10900414311330227605       BAYLOSIS                      ANNARICAR                     DIONG                               1213.22         0.00263082995      19790124
+DT12110310631510040808       BECILLA                       CRISPIN                       LAZO                                 241.92         0.00443818427      19910111
+DT12101198490930219303       BERNARDINO                    KESHIA JOYCE                  BIBIT                                767.02         0.00309904891      19921016
+DT12103860174352045019       BIRAD                         JASSON                        BONSAYON                            1045.78         0.00308396285      19901127
+DT12112875345952156908       BOBIS                         SHANNEN CAYE                  CALMANTE                             535.60         0.00472295795      19910923
+DT12116784269052148780       BORDON                        ZIREN BLANCH                  ALVARAN                              264.46         0.00327255754      19970805
+DT12107331996352125384       BUCAO                         JO HANNA GRACE                BAUTISTA                             981.82         0.00419690560      19891216
+DT12103659741352052553       BULAUITAN                     MARIO ZALMAN                  BUSTAMANTE                          1354.50         0.00404032605      19850821
+DT12110964077410025246       CABANAS                       EVA EVELYN                    BOHOL                                769.40         0.00310594863      19930117
+DT12121751212852100393       CALLO                         RAYMOND                       CANETE                               288.82         0.00344148858      19940511
+DT12121740074810035939       CANALES                       DARYL VINCE                                                        285.58         0.00709027222      19961031
+DT12115212354152026243       CANDELASA                     KARL VINCENT                  GOMEZ                                423.86         0.00331105326      19940408
+DT12124811649510045053       CAPISTRANO                    JULIUS                        TIRAO                                264.38         0.00468628086      19930722
+DT12119921014910046905       CARRASCO                      FRITZ DUSTIN                  JAMISOLA                             254.18         0.00101251379      19850726
+DT12110233602452019545       CASOY                         MARLON                        SALINTES                            1313.02         0.00256921243      19890807
+DT12114143168452047004       CASTRO                        MARIA NIKKA                   CUICO                                594.02         0.00321827969      19961105
+DT12110319407410010008       CIRERA                        ROXANNE GUIZELLE              CAVAN                                790.10         0.00265511996      19891211
+DT12113954119052169725       COBILLA                       JOSE JR                       TORRES                               315.04         0.00265062051      19730218
+DT12112366011952160799       CONDE                         SHIRLEY ANN                   GEPILGA                              492.52         0.00331909267      19840407
+DT12112402993510044047       CUTOR                         KATRINA                       JAO                                  786.36         0.00318742546      19921224
+DT12115427058252043022       DATWIN                        JOSHUA HURRY                  SALINAS                              719.34         0.00467383557      19950430
+DT10900057377010029907       DE GUZMAN II                  CONRADO                       ANTONIO                             1778.10         0.00909116960      19780611
+DT12101076249430231269       DE LOS REYES                  REUBEN                        ROMBLON                              896.98         0.00309728380      19890322
+DT12118917557252125388       DE TORRES                     ANA KATRINA                   GUSI                                 435.82         0.00334000131      19950809
+DT12110027205910005002       DOMINGUEZ                     ARBEL                         BAUTISTA                             686.57         0.00441116964      19921001
+DT12104089792610011420       DUNGOG                        RODNEY                        PASUMALA                             734.40         0.00311845413      19920529
+DT12109526984852079308       ESCOTO                        JESTONI                       MONTALES                             446.51         0.00439398164      19900325
+DT12109143589310040866       ESTEBAN                       BERNADETH                     BAUTISTA                             299.50         0.00               19861122
+DT14900108274552166040       FADRIGA                       JENNIFER                      DE JESUS                             851.38         0.00255708803      19870408
+DT12123547966710025127       FAMILIAR                      MICHELLE                                                           147.42         0.00325089692      19941120
+DT12110545385730235560       FORTALIZA                     DONALIZA                      VELASCO                              954.74         0.00286282477      19910617
+DT12114993534152170769       GALLANOSA                     RHOEL                                                              298.26         0.00451129632      19960517
+DT12117072628752128885       GAMALI                        JENNIFER                      LAUYOG                               471.22         0.00324354164      19980330
+DT12104334514452023994       GARCIA                        JEYSAN                        DIWA                                1204.28         0.00223278952      19800121
+DT12116675114652124186       GARCIA                        LINDSAY JEN                   ASUNCION                             207.52         0.00259672298      19861011
+DT12102122442930229620       GONGORA                       LEYNARD                       DEL VALLE                           1307.82         0.00251811026      19820823
+DT12123230246610042249       GRANA                         ALFREDO                       PICONES                              405.88         0.00258000806      19840204
+DT12125749493052166036       GUEVARRA                      IAN RUSSEL                    LLONA                                158.24         0.00359994067      20001025
+DT12123420611552163831       GUZMAN                        AGNES                         DUMALIANG                            361.22         0.00932366505      19721114
+DT12115230631252071196       HAICTIN                       HAIZEL                        CASTOR                               597.16         0.00317363362      19930625
+DT12114494933910014046       HALOG                         CHARLES LERWICK               DELA CRUZ                            127.64         0.00322089548      19931028
+DT12105295420830243427       HERRADURA                     MICHELLE                      RAMOS                                851.64         0.00429244302      19860313
+DT12102566035052050004       IBANA                         ROCELYN                       ALLAGADAN                           1133.04         0.00409227304      19901006
+DT12110077570752076251       IGHARAS                       JEROME                        DISTOR                               269.72         0.00315383544      19911202
+DT10100077938930221437       ISIP                          CLOYD                         ROBLES                              1872.86         0.00302418195      19811128
+DT12102995542310037302       JAO                           JOSHUA                        NAMALATA                            1056.98         0.00233474518      19861204
+DT10700166196930242072       JUAN                          ARLYN                         SANTILLAN                            299.20         0.00465029753      19790906
+DT12105845285010036810       LABACLADO                     APRONIANO III                 JAYLO                               1008.26         0.00301520349      19840307
+DT12115970401810036813       LACSON                        CHELSEA                       LELIS                                439.52         0.00739096318      19910125
+DT16400199471730223703       LAWAS                         RHONA SARAH JOY               NACARIO                             1879.94         0.00242369321      19861129
+DT12109588334630121390       LEGASPI                       MELGAZAR FRANCIS              DANCEL                               782.10         0.00314655752      19900106
+DT12103100322130220318       LIM                           MARI CRIS                     GINITE                               632.68         0.00311325399      19920615
+DT12105263712030236537       LOCAYLOCAY                    RIM DEN                       SABORNIDO                           1660.94         0.00253745261      19790508
+DT10900176399310005962       MAGTIBAY                      GERCEL                        DUMO                                 739.82         0.00301535636      19840715
+DT12120156576210012243       MAHIPOS                       JOHN CARLO                    ANFONE                               274.60         0.00340351873      19951104
+DT12104506829730232393       MANAHAN                       IRENE                         TRIA                                 637.42         0.00240421357      19810518
+DT12110330513030229363       MANDANAS                      AMALIA                        DE LEON                              663.88         0.00320943430      19911127
+DT12113673065652125554       MANO                          JOCELYN                       GABON                                839.24         0.00208431382      19800112
+DT12116463125152164080       MOHAMMAD                      REX                           BORGONOS                            3630.60         0.00326292945      19770302
+DT10100083612652019273       MONEDO                        JOCELYN JAZMIN                CANLAS                              1442.90         0.00300128627      19790616
+DT12103412884510024433       MONTELEYOLA                   RENZ GARELY                   PANTALEON                            951.78         0.00422982174      19891112
+DT12110109451630224917       MONTENEGRO                    BRIAN RUSSEL                  IMLANI                               738.50         0.00442286162      19930204
+DT12107563515352028993       MUSICO                        JOSHUA                        GACULA                               740.48         0.00400271679      19900923
+DT10200218448130225278       NABIULA                       LOLITTE CHIQUETTE             ALDA                                1669.30         0.00305700156      19860307
+DT16700154661352180184       OCAMPO                        MICHELLE ANN                                                       567.42         0.00321037074      19890112
+DT12100823622110048469       OLIVEROS                      EDUARDO JR                    OVIEDO                               988.02         0.00302489180      19811223
+DT12114835685952122934       ORATIL                        MARIEL                        RUTAQUIO                             570.42         0.00324577945      19950404
+DT10900262925210024434       ORDINAL                       MAJESSEL                                                          1539.20         0.00912876357      19770501
+DT12118720558710001246       ORTIZ                         IVY MARIE                     ARCHE                                272.10         0.00736601510      19820719
+DT12105460088752123161       OTERO                         EFREN                                                              401.84         0.00312180311      19920402
+DT12117585541910000548       PAGALILAUAN                   JOHN NICK                     OCAMPO                               492.88         0.00330228619      19951130
+DT12114247871910032236       PARINAS                       REINIER                       ASI                                  556.86         0.00476420946      19941103
+DT12102909357930223951       PATUNGAN                      KHARENT                       ABANILLA                            1471.28         0.00308092592      19890727
+DT12112997404352158230       PERALTA                       MEYNARD                       ULIT                                 761.62         0.00324546457      19921229
+DT12106751338410039564       PESCO                         EMYROSE                       PALMES                              1766.86         0.00428670236      19860907
+DT12106317587130231297       PINEDA                        JOAN                          RAMOS                               1187.60         0.00295995000      19870121
+DT10800091649952130525       QUEBRAL                       ARLENE                        ENCINA                              2964.16         0.00122546751      19680102
+DT10200341862752167768       RAMOS                         JOHN HERBERT                  DE MESA                              873.80         0.00269049567      19860421
+DT12116818073630229408       RAMOS                         MA LYDIA                      DELGADO                              427.02         0.00481230537      19940701
+DT12114804536610040796       REBADEO                       AMELITA                       BACALAOLOYO                          699.06         0.00325568799      19961129
+DT12118494150930229357       REGULAR                       JONARD                        SANGUTAN                             343.82         0.00332825247      19930720
+DT12121573343510028874       REYES                         NEILSON                       TORREPALMA                           195.04         0.00276169443      19840701
+DT12115817786210007567       RIVERA                        RAMIL CHRISTIAN               PALMERA                              611.12         0.00422753892      19940725
+DT10300201527230235429       ROSARIO                       RICHARD                       CLARINO                             1204.38         0.00240160374      19830526
+DT12118812234910024583       SAGADAL                       DEITHER                       BASILIOTE                            684.48         0.00334140543      19971027
+DT12112878191452098642       SANICO                        JERUSHI                       JABALDE                              433.52         0.00319076532      19930301
+DT12108676180852156730       SAPINOSO                      JOVENIL                       DALISAY                              819.66         0.00435821777      19880626
+DT12118621059652156733       SARDANI                       SARAH JANE                                                         302.82         0.00332830083      19900205
+DT10600147147910040578       SELUDO                        ANNALYN                       GUIAO                               1734.48         0.00301950919      19870220
+DT12112386671552063831       SEMBRANO                      CHRISTEL ALLEN                CAPULONG                             231.74         0.00318960080      19940418
+DT12118358682110023474       SENIT                         ALEXANDER                     HELARDO                              326.50         0.00333024834      19940304
+DT12108226477810027333       SERRAON                       RUTH                                                               241.12         0.00742799706      19920319
+DT12117756835810047988       SEVILLETA                     IRINE                         GERONGCO                             680.52         0.00330366474      19950208
+DT12102091342552035779       SIMEON                        ELISA                         CANCEL                              1451.10         0.00157449762      19740214
+DT16400117296252009987       SUMALINOG                     JENALIN                       DEGAMO                              1758.48         0.00947402733      19840714
+DT10200262033130217785       TABAC                         GEMMALYN                      ILIGAN                              2289.10         0.00256647545      19861221
+DT12103230222652138075       TAIPEN                        MARK MAR                      CAHILIG                              499.04         0.00319696618      19910812
+DT12109894268452169619       TAMAYAO                       JOHN FRANCIS                  CALLADA                              248.10         0.00440354058      19960504
+DT12113946258152086495       TANEO                         CHARISSE ANNE                 LAURDEN                              390.76         0.00466290984      19891009
+DT12115386698052038794       TOLENTINO                     ANDY JR                       ANCHETA                              614.10         0.00330787836      19960608
+DT12100612780452178592       TOLENTINO                     PAUL CESAR III                SANTOS                               431.62         0.00224730564      19810730
+DT12102233320052100399       TUAZON                        PRINCES                       ABRENICA                            1000.00         0.00296697545      19890815
+DT12113802592752138100       VALDOPENA                     JOVELYN                       JACULBIA                             277.72         0.00               19931227
+DT12125161499210045048       VALENZUELA                    AERON                                                              228.28         0.00121251614      19981009
+DT12102709953852106098       VALMERA                       JULIUS                        OCLENARIA                            717.24         0.00276607392      19890514
+DT12107058547552123810       VERSOZA JR                    EDSEN                         DELA CRUZ                            446.98         0.00458599020      19921217
+DT12101656124752023093       VILLAMIEL                     ADELMA                        ADUNA                               2214.24         0.00227775442      19790715
+DT12103571585430218764       VIRTUSIO                      JOEMEL                        CUADRO                               798.26         0.00413970202      19920530
+DT10100367090852168203       YU                            MARIBEL                       SIMEON                               954.96         0.00246635223      19790925
+DT10900058328352142477       YU                            PATRICK HENRY                 CHING                                744.86         0.00202804396      19720618
+DT12121478071852154576       ZACARIAS                      PAULO                         LAYSON                               241.50         0.00700469429      19890606
+DT12116297150810011887       ZAMUDIO                       LYNDON JOHNSON                ZURBANO                             1324.98         0.00319157164      19950209
+DT12111148290852148788       ZAPATA                        ANALETTE                      CARILLO                              134.42         0.00333106703      19940119

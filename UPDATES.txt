@@ -1,0 +1,155 @@
+DECLARE @EmployeeList TABLE (EmployeeId INT, NewEmployeeCode VARCHAR(250))
+INSERT INTO @EmployeeList (EmployeeId, NewEmployeeCode)
+SELECT e.Id, tmp.NewEmployeeCode
+FROM (
+	 SELECT '00517' AS OldEmployeeCode, '516' AS NewEmployeeCode
+UNION SELECT '00602' AS OldEmployeeCode, '517' AS NewEmployeeCode
+UNION SELECT '00538' AS OldEmployeeCode, '518' AS NewEmployeeCode
+UNION SELECT '00610' AS OldEmployeeCode, '519' AS NewEmployeeCode
+UNION SELECT '00475' AS OldEmployeeCode, '520' AS NewEmployeeCode
+UNION SELECT '00423' AS OldEmployeeCode, '521' AS NewEmployeeCode
+UNION SELECT '00512' AS OldEmployeeCode, '522' AS NewEmployeeCode
+UNION SELECT '00528' AS OldEmployeeCode, '523' AS NewEmployeeCode
+UNION SELECT '00464' AS OldEmployeeCode, '524' AS NewEmployeeCode
+UNION SELECT '00002' AS OldEmployeeCode, '525' AS NewEmployeeCode
+UNION SELECT '00603' AS OldEmployeeCode, '526' AS NewEmployeeCode
+UNION SELECT '00465' AS OldEmployeeCode, '527' AS NewEmployeeCode
+UNION SELECT '00539' AS OldEmployeeCode, '528' AS NewEmployeeCode
+UNION SELECT '00502' AS OldEmployeeCode, '529' AS NewEmployeeCode
+UNION SELECT '00043' AS OldEmployeeCode, '530' AS NewEmployeeCode
+UNION SELECT '00588' AS OldEmployeeCode, '531' AS NewEmployeeCode
+UNION SELECT '00559' AS OldEmployeeCode, '532' AS NewEmployeeCode
+UNION SELECT '00005' AS OldEmployeeCode, '533' AS NewEmployeeCode
+UNION SELECT '00541' AS OldEmployeeCode, '534' AS NewEmployeeCode
+UNION SELECT '00427' AS OldEmployeeCode, '535' AS NewEmployeeCode
+UNION SELECT '00567' AS OldEmployeeCode, '536' AS NewEmployeeCode
+UNION SELECT '00134' AS OldEmployeeCode, '537' AS NewEmployeeCode
+UNION SELECT '00519' AS OldEmployeeCode, '538' AS NewEmployeeCode
+UNION SELECT '00513' AS OldEmployeeCode, '539' AS NewEmployeeCode
+UNION SELECT '00570' AS OldEmployeeCode, '540' AS NewEmployeeCode
+UNION SELECT '00612' AS OldEmployeeCode, '541' AS NewEmployeeCode
+UNION SELECT '00323' AS OldEmployeeCode, '542' AS NewEmployeeCode
+UNION SELECT '00520' AS OldEmployeeCode, '543' AS NewEmployeeCode
+UNION SELECT '00613' AS OldEmployeeCode, '544' AS NewEmployeeCode
+UNION SELECT '00431' AS OldEmployeeCode, '545' AS NewEmployeeCode
+UNION SELECT '00155' AS OldEmployeeCode, '546' AS NewEmployeeCode
+UNION SELECT '00324' AS OldEmployeeCode, '547' AS NewEmployeeCode
+UNION SELECT '00578' AS OldEmployeeCode, '548' AS NewEmployeeCode
+UNION SELECT '00432' AS OldEmployeeCode, '549' AS NewEmployeeCode
+UNION SELECT '00156' AS OldEmployeeCode, '550' AS NewEmployeeCode
+UNION SELECT '00561' AS OldEmployeeCode, '550' AS NewEmployeeCode
+UNION SELECT '00614' AS OldEmployeeCode, '552' AS NewEmployeeCode
+UNION SELECT '00375' AS OldEmployeeCode, '553' AS NewEmployeeCode
+UNION SELECT '00217' AS OldEmployeeCode, '554' AS NewEmployeeCode
+UNION SELECT '00089' AS OldEmployeeCode, '555' AS NewEmployeeCode
+UNION SELECT '00278' AS OldEmployeeCode, '556' AS NewEmployeeCode
+UNION SELECT '00346' AS OldEmployeeCode, '557' AS NewEmployeeCode
+UNION SELECT '00247' AS OldEmployeeCode, '558' AS NewEmployeeCode
+UNION SELECT '00027' AS OldEmployeeCode, '559' AS NewEmployeeCode
+UNION SELECT '00594' AS OldEmployeeCode, '560' AS NewEmployeeCode
+UNION SELECT '00521' AS OldEmployeeCode, '561' AS NewEmployeeCode
+UNION SELECT '00099' AS OldEmployeeCode, '562' AS NewEmployeeCode
+UNION SELECT '00225' AS OldEmployeeCode, '563' AS NewEmployeeCode
+UNION SELECT '00580' AS OldEmployeeCode, '564' AS NewEmployeeCode
+UNION SELECT '00413' AS OldEmployeeCode, '565' AS NewEmployeeCode
+UNION SELECT '00077' AS OldEmployeeCode, '566' AS NewEmployeeCode
+UNION SELECT '00542' AS OldEmployeeCode, '567' AS NewEmployeeCode
+UNION SELECT '00530' AS OldEmployeeCode, '568' AS NewEmployeeCode
+UNION SELECT '00495' AS OldEmployeeCode, '569' AS NewEmployeeCode
+UNION SELECT '00377' AS OldEmployeeCode, '570' AS NewEmployeeCode
+UNION SELECT '00615' AS OldEmployeeCode, '571' AS NewEmployeeCode
+UNION SELECT '00451' AS OldEmployeeCode, '572' AS NewEmployeeCode
+UNION SELECT '00478' AS OldEmployeeCode, '573' AS NewEmployeeCode
+UNION SELECT '00487' AS OldEmployeeCode, '574' AS NewEmployeeCode
+UNION SELECT '00285' AS OldEmployeeCode, '575' AS NewEmployeeCode
+UNION SELECT '00598' AS OldEmployeeCode, '576' AS NewEmployeeCode
+UNION SELECT '00009' AS OldEmployeeCode, '576' AS NewEmployeeCode
+UNION SELECT '00347' AS OldEmployeeCode, '578' AS NewEmployeeCode
+UNION SELECT '00137' AS OldEmployeeCode, '579' AS NewEmployeeCode
+UNION SELECT '00422' AS OldEmployeeCode, '580' AS NewEmployeeCode
+UNION SELECT '00484' AS OldEmployeeCode, '581' AS NewEmployeeCode
+UNION SELECT '00050' AS OldEmployeeCode, '582' AS NewEmployeeCode
+UNION SELECT '00010' AS OldEmployeeCode, '583' AS NewEmployeeCode
+UNION SELECT '00531' AS OldEmployeeCode, '584' AS NewEmployeeCode
+UNION SELECT '00591' AS OldEmployeeCode, '585' AS NewEmployeeCode
+UNION SELECT '00438' AS OldEmployeeCode, '586' AS NewEmployeeCode
+UNION SELECT '00183' AS OldEmployeeCode, '587' AS NewEmployeeCode
+UNION SELECT '00582' AS OldEmployeeCode, '588' AS NewEmployeeCode
+UNION SELECT '00460' AS OldEmployeeCode, '589' AS NewEmployeeCode
+UNION SELECT '00543' AS OldEmployeeCode, '590' AS NewEmployeeCode
+UNION SELECT '00532' AS OldEmployeeCode, '591' AS NewEmployeeCode
+UNION SELECT '00562' AS OldEmployeeCode, '592' AS NewEmployeeCode
+UNION SELECT '00265' AS OldEmployeeCode, '593' AS NewEmployeeCode
+UNION SELECT '00572' AS OldEmployeeCode, '594' AS NewEmployeeCode
+UNION SELECT '00563' AS OldEmployeeCode, '595' AS NewEmployeeCode
+UNION SELECT '00470' AS OldEmployeeCode, '596' AS NewEmployeeCode
+UNION SELECT '00564' AS OldEmployeeCode, '597' AS NewEmployeeCode
+UNION SELECT '00619' AS OldEmployeeCode, '598' AS NewEmployeeCode
+UNION SELECT '00624' AS OldEmployeeCode, '599' AS NewEmployeeCode
+UNION SELECT '00471' AS OldEmployeeCode, '600' AS NewEmployeeCode
+UNION SELECT '00523' AS OldEmployeeCode, '601' AS NewEmployeeCode
+UNION SELECT '00511' AS OldEmployeeCode, '602' AS NewEmployeeCode
+UNION SELECT '00546' AS OldEmployeeCode, '602' AS NewEmployeeCode
+UNION SELECT '00012' AS OldEmployeeCode, '604' AS NewEmployeeCode
+UNION SELECT '00055' AS OldEmployeeCode, '605' AS NewEmployeeCode
+UNION SELECT '00337' AS OldEmployeeCode, '606' AS NewEmployeeCode
+UNION SELECT '00031' AS OldEmployeeCode, '607' AS NewEmployeeCode
+UNION SELECT '00379' AS OldEmployeeCode, '608' AS NewEmployeeCode
+UNION SELECT '00350' AS OldEmployeeCode, '609' AS NewEmployeeCode
+UNION SELECT '00574' AS OldEmployeeCode, '657' AS NewEmployeeCode
+UNION SELECT '00228' AS OldEmployeeCode, '610' AS NewEmployeeCode
+UNION SELECT '00280' AS OldEmployeeCode, '611' AS NewEmployeeCode
+UNION SELECT '00461' AS OldEmployeeCode, '612' AS NewEmployeeCode
+UNION SELECT '00566' AS OldEmployeeCode, '613' AS NewEmployeeCode
+UNION SELECT '00489' AS OldEmployeeCode, '614' AS NewEmployeeCode
+UNION SELECT '00013' AS OldEmployeeCode, '615' AS NewEmployeeCode
+UNION SELECT '00453' AS OldEmployeeCode, '616' AS NewEmployeeCode
+UNION SELECT '00524' AS OldEmployeeCode, '617' AS NewEmployeeCode
+UNION SELECT '00525' AS OldEmployeeCode, '618' AS NewEmployeeCode
+UNION SELECT '00220' AS OldEmployeeCode, '619' AS NewEmployeeCode
+UNION SELECT '00548' AS OldEmployeeCode, '620' AS NewEmployeeCode
+UNION SELECT '00498' AS OldEmployeeCode, '621' AS NewEmployeeCode
+UNION SELECT '00352' AS OldEmployeeCode, '622' AS NewEmployeeCode
+UNION SELECT '00500' AS OldEmployeeCode, '623' AS NewEmployeeCode
+UNION SELECT '00385' AS OldEmployeeCode, '624' AS NewEmployeeCode
+UNION SELECT '00607' AS OldEmployeeCode, '625' AS NewEmployeeCode
+UNION SELECT '00354' AS OldEmployeeCode, '626' AS NewEmployeeCode
+UNION SELECT '00549' AS OldEmployeeCode, '627' AS NewEmployeeCode
+UNION SELECT '00295' AS OldEmployeeCode, '628' AS NewEmployeeCode
+UNION SELECT '00490' AS OldEmployeeCode, '629' AS NewEmployeeCode
+UNION SELECT '00595' AS OldEmployeeCode, '630' AS NewEmployeeCode
+UNION SELECT '00035' AS OldEmployeeCode, '631' AS NewEmployeeCode
+UNION SELECT '00507' AS OldEmployeeCode, '632' AS NewEmployeeCode
+UNION SELECT '00600' AS OldEmployeeCode, '633' AS NewEmployeeCode
+UNION SELECT '00462' AS OldEmployeeCode, '634' AS NewEmployeeCode
+UNION SELECT '00608' AS OldEmployeeCode, '635' AS NewEmployeeCode
+UNION SELECT '00550' AS OldEmployeeCode, '636' AS NewEmployeeCode
+UNION SELECT '00609' AS OldEmployeeCode, '637' AS NewEmployeeCode
+UNION SELECT '00617' AS OldEmployeeCode, '638' AS NewEmployeeCode
+UNION SELECT '00405' AS OldEmployeeCode, '639' AS NewEmployeeCode
+UNION SELECT '00111' AS OldEmployeeCode, '640' AS NewEmployeeCode
+UNION SELECT '00551' AS OldEmployeeCode, '641' AS NewEmployeeCode
+UNION SELECT '00483' AS OldEmployeeCode, '642' AS NewEmployeeCode
+UNION SELECT '00499' AS OldEmployeeCode, '643' AS NewEmployeeCode
+UNION SELECT '00388' AS OldEmployeeCode, '644' AS NewEmployeeCode
+UNION SELECT '00553' AS OldEmployeeCode, '644' AS NewEmployeeCode
+UNION SELECT '00357' AS OldEmployeeCode, '646' AS NewEmployeeCode
+UNION SELECT '00510' AS OldEmployeeCode, '647' AS NewEmployeeCode
+UNION SELECT '00336' AS OldEmployeeCode, '648' AS NewEmployeeCode
+UNION SELECT '00400' AS OldEmployeeCode, '649' AS NewEmployeeCode
+UNION SELECT '00620' AS OldEmployeeCode, '650' AS NewEmployeeCode
+UNION SELECT '00618' AS OldEmployeeCode, '651' AS NewEmployeeCode
+
+) tmp
+	INNER JOIN tblEmployees e ON e.EmployeeCode = tmp.OldEmployeeCode
+
+
+UPDATE e
+	SET e.EmployeeCode = el.NewEmployeeCode
+FROM tblEmployees e
+	INNER JOIN @EmployeeList el ON el.EmployeeId = e.Id
+
+GO
+
+
+select * from tblemployees where employeecode = '00517'
